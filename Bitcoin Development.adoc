@@ -1,6 +1,5 @@
 == Bitcoin
-===Bitcoin Development (source)
-
+=== Bitcoin Development (source)
 Link: https://lopp.net/bitcoin.html
 
 
