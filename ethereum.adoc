@@ -7,11 +7,11 @@ Ethereum is a platform that demonstrates the fast growth from general purpose bl
 
 
 ==== Is Turing completeness of Ethereum dangerous?
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -24,12 +24,12 @@ In this chapter, you set up a wallet using MetaMask and funded it using a faucet
  There are some wallets that supports operations in Ethereum such as MetaMask, Jaxx, MyEtherWallet (MEW). Emerald Wallet.
 
 
-====What for you can you use Remix?
-
-
-+++ <details><answer> +++
+==== What for you can you use Remix?
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -42,11 +42,11 @@ Question
 
 
 ==== What port uses RPC interface as an HTTP service?
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -58,11 +58,11 @@ In this chapter, we provided a brief survey of public key cryptography and focus
 
 
 ==== What is it an elliptic curve regarding cryptography?
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -76,11 +76,11 @@ Wallets are the foundation of any user-facing blockchain application. They allow
 
 ==== What are the differences between deterministic and nondeterministic wallets?
 
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -92,11 +92,11 @@ Transactions are the starting point of every activity in the Ethereum system. Tr
 
 ==== What is the minimum acceptable gasPrice?
 
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -108,11 +108,11 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contract
 In this chapter, we started working with smart contracts in detail and explored the Solidity contract programming language. We took a simple example contract, Faucet.sol, and gradually improved it and made it more complex, using it to explore various aspects of the Solidity language.
 
 ==== Explain the most efficient way how to avoid Avoid Dynamically Sized Arrays.
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -125,11 +125,11 @@ Vyper is a powerful and interesting new contract-oriented programming language. 
 
 ==== What is the main difference between the two sorts of typecasting: implicit and explicit?
 
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -143,11 +143,11 @@ Perhaps the most fundamental software security principle is to maximize reuse of
 
 ==== What is the best framework for writing smart-contracts in Solidity and why?
 
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 --------
 +++ </div></details> +++
 
@@ -156,11 +156,11 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciido
 Tokens are a very powerful concept in Ethereum and can form the basis of many important decentralized applications. In this chapter, we looked at the different types of tokens and token standards, and you built your first token and related application.
 
 ==== Is it possible to use ERC777 for ICO contract? Please, elaborate on the advantages and disadvantages?
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -173,11 +173,11 @@ Oracles provide a crucial service to smart contracts: they bring external facts 
 
 
 ==== Why it is risky to use Oracles in the smart-contracts.
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 Answer(correct)
 ----
@@ -188,11 +188,11 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc
 Decentralized applications are the culmination of the Ethereum vision, as expressed by the founders from the very earliest designs. While many applications call themselves DApps today, most are not fully decentralized. However, it is already possible to construct applications that are almost completely decentralized.
 
 ==== How to explain ENS regarding Ethereum?
-
-
-+++ <details><answer> +++
+===== 
+===== 
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 
 ----
@@ -204,15 +204,15 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc
 In this chapter we have explored the Ethereum Virtual Machine, tracing the execution of various smart contracts and looking at how the EVM executes bytecode. We also looked at gas, the EVM’s accounting mechanism, and saw how it solves the halting problem and protects Ethereum from denial-of-service attacks.
 
 ==== What is not a block operation from the list below?
-BLOCKHASH  //Get the hash of one of the 256 most recently completed       //blocks
-COINBASE   //Get the block's beneficiary address for the block reward
-TIMESTAMP  //Get the block's timestamp
-NUMBER     //Get the block's number
-DIFFICULTY //Get the block's difficulty
-GASLIMIT   //Get the block's
-+++ <details><answer> +++
+===== BLOCKHASH  //Get the hash of one of the 256 most recently completed       //blocks
+===== COINBASE   //Get the block's beneficiary address for the block reward
+===== TIMESTAMP  //Get the block's timestamp
+===== NUMBER     //Get the block's number
+===== DIFFICULTY //Get the block's difficulty
+===== GASLIMIT   //Get the block's
++++ <details><summary> +++
     Answer
-    +++ </answer><div> +++
+    +++ </summary><div> +++
 ----
 BOOlEAN   // Get the block’s boolean
 ----
@@ -224,11 +224,11 @@ Ethereum’s consensus algorithm is still in flux at the time of completion of t
 
 
 ==== By asking what questions you can more clearly understand the consensus algorithm?
-
-
-+++ <details><answer> +++
-Answer
-+++ </answer><div> +++
+===== 
+===== 
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
 ----
 correct answer
 ----
