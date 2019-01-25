@@ -70,7 +70,7 @@ geth is the command line interface for running a full ethereum node implemented 
     Answer
     +++ </summary><div> +++
 ----
-All answer are correct
+All answers are correct
 ----
 +++ </div></details> +++
 
