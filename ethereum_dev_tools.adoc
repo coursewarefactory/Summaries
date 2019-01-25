@@ -9,8 +9,9 @@ Solidity is an object-oriented, high-level language for implementing smart contr
 
 ==== What it is EVM?
 
-===== 
-===== 
+===== Ethereum Virtual Machine
+===== Ethereum Viable Machine
+===== Every Viable Machine
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -26,13 +27,14 @@ Remix is a powerful, open source tool that helps you write Solidity contracts st
 
 ==== What is the main goal of Remix?
 
-===== 
-===== 
+===== Provide access to the Ethereum
+===== To publish contracts
+===== To check transactions
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Provide access to the Ethereum and To publish contracts
 ----
 +++ </div></details> +++
 
@@ -43,13 +45,14 @@ Rinkeby faucet provide you with some test coins for testnet.
 
 
 ==== How you can get test coins in Rinkeby faucet?
-===== 
-===== 
+===== Ask Vitalik Buterin
+===== To follow special instructions
+===== To buy in vending machine
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+To follow special instructions
 ----
 +++ </div></details> +++
 
@@ -60,13 +63,14 @@ geth is the command line interface for running a full ethereum node implemented 
 
 ==== How you can use geth in your dApp development?
 
-===== 
-===== 
+===== Managing accounts
+===== Mining
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+All answer are correct
 ----
 +++ </div></details> +++
 
@@ -75,7 +79,7 @@ Link: https://www.parity.io/
 Parity develops cutting-edge blockchain technologies to foster innovation such as Parity Ethereum, Parity Bitcoin, Polkadot and others.
 
 
-==== Why Kovan so useful for development?
+==== Open question: Why Kovan so useful for development?
 
 ===== 
 ===== 
@@ -83,7 +87,7 @@ Parity develops cutting-edge blockchain technologies to foster innovation such a
     Answer
     +++ </summary><div> +++
 ----
-
+write you answer
 ----
 +++ </div></details> +++
 
@@ -94,13 +98,14 @@ A personal blockchain for Ethereum development you can use to deploy contracts, 
 
 ==== How many addresses Ganache create by default after deployment?
 
-===== 
-===== 
+===== 9
+===== 8
+===== 10
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+10
 ----
 +++ </div></details> +++
 
@@ -110,13 +115,14 @@ Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. I
 
 
 ==== What is the main purpose of Web.js in blockchain development?
-===== 
-===== 
+===== To realize connection between ethereum and external systems
+===== To provide ethers to the users of Ethereum
+===== To make development easier
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+To realize connection between ethereum and external systems
 ----
 +++ </div></details> +++
 
@@ -127,13 +133,14 @@ Web3.py is a python library for interacting with Ethereum. Its API is derived fr
 
 
 ==== What for you need to reactivate your virtualenv while using Web3.py
-===== 
-===== 
+===== Each new terminal session requires you to reactivate your virtualenv
+===== Each new project requires you to reactivate your virtualenv
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Each new terminal session requires you to reactivate your virtualenv
 ----
 +++ </div></details> +++
 
@@ -141,14 +148,14 @@ Link: http://truffleframework.com/boxes/
 
 Truffle Boxes are helpful boilerplates that allow you to focus on what makes your dapp unique. In addition to Truffle, Truffle Boxes can contain other helpful modules, Solidity contracts & libraries, front-end views and more; all the way up to complete example dapps.
 
-==== What the most appealing box from truffle suite to you?
+==== Open question: What the most appealing box from truffle suite to you?
 
 ===== 
 ===== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
---------
+----write you answer----
 +++ </div></details> +++
 
 Link: https://github.com/truffle-box/drizzle-box
@@ -156,15 +163,16 @@ Link: https://github.com/truffle-box/drizzle-box
 This box comes with everything you need to start using smart contracts from a react app with Drizzle. It includes drizzle, drizzle-react and drizzle-react-components to give you a complete overview of Drizzle's capabilities.
 
 
-==== How to verify that Drizzle working properly?
+==== What command install Drizzle?
 
-===== 
-===== 
+===== truffle create drizzle
+===== truffle produce drizzle
+===== truffle unbox drizzle
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+truffle unbox drizzle
 ----
 +++ </div></details> +++
 
@@ -174,15 +182,15 @@ Link: https://github.com/OpenZeppelin/openzeppelin-solidity
 OpenZeppelin is a library for secure smart contract development. It provides implementations of standards like ERC20 and ERC721 which you can deploy as-is or extend to suit your needs, as well as Solidity components to build custom contracts and more complex decentralized systems.
 
 
-==== Why OpenZeppelin framework is so secured?
-
-===== 
-===== 
+==== How to install OpenZeppelin framework?
+===== npm install openzeppelin
+===== npm install openzeppelin-ethereum
+===== install openzeppelin-solidity
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+npm install openzeppelin-solidity
 ----
 +++ </div></details> +++
 
@@ -194,13 +202,14 @@ IPFS makes this possible for web pages, but also for any kind of file a computer
 
 ==== What is the difference between IPFS and MFS?
 
-===== 
-===== 
+===== Files in IPFS are content-addressed and immutable, they can be complicated to edit. Mutable File System (MFS) is a tool built into IPFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
+===== Files in MFS are content-addressed and immutable, they can be complicated to edit. iPFS is a tool built into MFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
+===== Files in IPFS are content-addressed and immutable, they can be complicated to edit. Mutable File System (MFS) is a separate tool that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Files in IPFS are content-addressed and immutable, they can be complicated to edit. Mutable File System (MFS) is a tool built into IPFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
 ----
 +++ </div></details> +++
 
@@ -212,17 +221,14 @@ Swarm: Serverless Hosting Incentivised Peer-To-Peer Storage And Content Distribu
 
 ==== How to verify that your local Swarm node is running?
 
-===== 
-===== 
-===== 
-===== 
-===== 
-===== 
+=====  http://localhost:8500 
+=====  http://localhost:9500 
+=====  http://localhost:5000 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+ http://localhost:8500 
 ----
 +++ </div></details> +++
 
@@ -234,13 +240,14 @@ Some existing solutions are MQ: A distributed messaging system, no inherent priv
 
 ==== For what type of dApps Whisper can be useful?
 
-===== 
-===== 
+===== DApps that need to publish small amounts of information to each other 
+===== DApps that need to signal to each other in order to ultimately collaborate on a transaction.
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+All answers are correct
 ----
 +++ </div></details> +++
 
@@ -251,13 +258,14 @@ MetaMask is a bridge that allows you to visit the distributed web of tomorrow in
 
 ==== What does it mean “seed words”?
 
-===== 
-===== 
+===== Cool nickname
+===== Mnemonic password
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+Mnemonic password
 ----
 +++ </div></details> +++
 
@@ -269,12 +277,13 @@ Etherscan is the leading BlockExplorer for the Ethereum Blockchain. A BlockExplo
 
 ==== Where you can find information about published tokens?
 
-===== 
-===== 
+===== https://etherscan.io/
+===== https://etherscan.com/
+===== https://etherscan.org/
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+https://etherscan.io/
 ----
 +++ </div></details> +++
