@@ -6,14 +6,15 @@ Link:https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciido
 Ethereum is a platform that demonstrates the fast growth from general purpose blockchain to the hosting of decentralized applications. Ethereum can compute any algorithm that can be computed by any Turing machine, given the limitations of finite memory.
 
 
-==== Is Turing completeness of Ethereum dangerous?
-===== 
-===== 
+==== What does it mean Turing completeness of Ethereum?
+===== Ethereum can lauch programms that will not terminate
+===== All programms on the Ethereum can be terminated
+===== Ethereum can lauch programms that will not terminate
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+Ethereum can lauch programms that will not terminate
 ----
 +++ </div></details> +++
 
@@ -25,13 +26,14 @@ In this chapter, you set up a wallet using MetaMask and funded it using a faucet
 
 
 ==== What for you can you use Remix?
-===== 
-===== 
+===== To check the logic of the smart-contract
+===== To send cryptocurrency to the friend
+===== To write smart-contract
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+All answers are correct
 ----
 +++ </div></details> +++
 
@@ -41,14 +43,15 @@ In this chapter, we explored Ethereum clients. You downloaded, installed, and sy
 Question
 
 
-==== What port uses RPC interface as an HTTP service?
-===== 
-===== 
+==== What port uses RPC interface as an HTTP service by default?
+===== 8545
+===== 8546
+===== 9595
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+8545
 ----
 +++ </div></details> +++
 
@@ -58,13 +61,14 @@ In this chapter, we provided a brief survey of public key cryptography and focus
 
 
 ==== What is it an elliptic curve regarding cryptography?
-===== 
-===== 
+===== Elliptic curve cryptography is a type of asymmetric or public key cryptography based on the discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve.
+===== Elliptic curve cryptography is a type of asymmetric or private key cryptography based on the discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve.
+===== Elliptic curve cryptography is a type of asymmetric or public key cryptography based on the discrete logarithm problem as expressed by addition and division on the points of an elliptic curve.
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+Elliptic curve cryptography is a type of asymmetric or public key cryptography based on the discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve.
 ----
 +++ </div></details> +++
 
@@ -76,13 +80,14 @@ Wallets are the foundation of any user-facing blockchain application. They allow
 
 ==== What are the differences between deterministic and nondeterministic wallets?
 
-===== 
-===== 
+===== Access level
+===== Reliability level
+===== Security level 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+All answers are correct
 ----
 +++ </div></details> +++
 
@@ -92,13 +97,14 @@ Transactions are the starting point of every activity in the Ethereum system. Tr
 
 ==== What is the minimum acceptable gasPrice?
 
-===== 
-===== 
+===== 0 wei
+===== 100 wei
+===== 20 wei
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+0 wei
 ----
 +++ </div></details> +++
 
@@ -107,14 +113,14 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contract
 
 In this chapter, we started working with smart contracts in detail and explored the Solidity contract programming language. We took a simple example contract, Faucet.sol, and gradually improved it and made it more complex, using it to explore various aspects of the Solidity language.
 
-==== Explain the most efficient way how to avoid Avoid Dynamically Sized Arrays.
+==== Open question: Explain the most efficient way how to avoid Avoid Dynamically Sized Arrays.
 ===== 
 ===== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+Write you own answer
 ----
 +++ </div></details> +++
 
@@ -123,15 +129,15 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contract
 Vyper is a powerful and interesting new contract-oriented programming language. Its design is biased toward correctness, at the expense of some flexibility. This may allow programmers to write better smart contracts and avoid certain pitfalls that cause serious vulnerabilities to arise.
 
 
-==== What is the main difference between the two sorts of typecasting: implicit and explicit?
-
-===== 
-===== 
+==== What is not a decorator from the list below:
+===== @private
+===== @public
+===== @receivable
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+@receivable
 ----
 +++ </div></details> +++
 
@@ -155,14 +161,14 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciido
 
 Tokens are a very powerful concept in Ethereum and can form the basis of many important decentralized applications. In this chapter, we looked at the different types of tokens and token standards, and you built your first token and related application.
 
-==== Is it possible to use ERC777 for ICO contract? Please, elaborate on the advantages and disadvantages?
+==== Open question: Is it possible to use ERC777 for ICO contract? Please, elaborate on the advantages and disadvantages?
 ===== 
 ===== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+Write you own answer
 ----
 +++ </div></details> +++
 
@@ -173,13 +179,14 @@ Oracles provide a crucial service to smart contracts: they bring external facts 
 
 
 ==== Why it is risky to use Oracles in the smart-contracts.
-===== 
-===== 
+===== Smart-contracts can be exposed to potentially false inputs. 
+===== They bring external facts to contract execution
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Answer(correct)
+All answers are correct
 ----
 +++ </div></details> +++
 
@@ -188,13 +195,14 @@ Link: https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc
 Decentralized applications are the culmination of the Ethereum vision, as expressed by the founders from the very earliest designs. While many applications call themselves DApps today, most are not fully decentralized. However, it is already possible to construct applications that are almost completely decentralized.
 
 ==== How to explain ENS regarding Ethereum?
-===== 
-===== 
+===== The Ethereum Name Service
+===== The Ethereum Number Source
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-
+The Ethereum Name Service
 ----
 +++ </div></details> +++
 
@@ -224,12 +232,16 @@ Ethereum’s consensus algorithm is still in flux at the time of completion of t
 
 
 ==== By asking what questions you can more clearly understand the consensus algorithm?
-===== 
-===== 
+=====  
+=====  
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-correct answer
+Who can change the past, and how? (This is also known as immutability.)
+Who can change the future, and how? (This is also known as finality.)
+What is the cost to make such changes?
+How decentralized is the power to make such changes?
+Who will know if something has changed, and how will they know?
 ----
 +++ </div></details> +++
