@@ -394,6 +394,7 @@ It produces more BTC into the system at a steady rate until the market cap of 21
 +++ </div></details> +++
 
 https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc
+
 === Bitcoin Core: The Reference Implementation
 
 Bitcoin is an open source project meaning its simply free to use and also developed by an open community of volunteers. For a developer, there is need to set up a development environment with all the tools, libraries, and support software for writing bitcoin applications in order to access operating system’s command-line interface known as a shell, accessed via a terminal application through which series of commands and scripts can be run. 
@@ -412,6 +413,7 @@ Running a node makes the network more robust and able to serve more wallets, mor
 +++ </div></details> +++
 
 https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc
+
 === Keys, Addresses
 
 Ownership of bitcoin is established through digital keys, bitcoin addresses, and digital signatures. The digital keys which can be generated and managed by the user’s wallet software without reference to the blockchain or access to the internet. Public key cryptography is used to create a key pair that controls access to bitcoin. The key pair consists of a private key and— derived from it— a public key that’s distinct. The private key must be backed up to prevent loss as this means funds secured by it are lost forever. 
