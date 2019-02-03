@@ -109,7 +109,7 @@ JSON
 
 Link: https://docs.blockstack.org/develop/auth_provider.html
 
-This chapter teaches you how to add Blockstack authentication to a web app. Basic knowledge of Ruby or Rails is required to add this feature to a site. You need to run a Ruby 2.0 or higher to complete this tutorial. You'll use the <a href=https://github.com/OmniAuth/OmniAuth=_blank>OmniAuth</a> plugin to setup Blockstack authentication. OmniAuth is a popular framework for integrating third-party authentication with a Ruby on Rails website. Blockstack provides an OmniAuth plugin, OmniAuth-blockstack to make this easy for you. To test the Blockstack authenticator, you first need to sign in with your Blockstack ID
+This chapter teaches you how to add Blockstack authentication to a web app. Basic knowledge of Ruby or Rails is required to add this feature to a site. You need to run a Ruby 2.0 or higher to complete this tutorial. You'll use the https://github.com/OmniAuth/OmniAuth=_blank[OmniAuth] plugin to setup Blockstack authentication. OmniAuth is a popular framework for integrating third-party authentication with a Ruby on Rails website. Blockstack provides an OmniAuth plugin, OmniAuth-blockstack to make this easy for you. To test the Blockstack authenticator, you first need to sign in with your Blockstack ID
 
 ==== What are the advantages of DApp over app?
 
