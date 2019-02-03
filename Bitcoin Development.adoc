@@ -5,9 +5,8 @@ Link: https://lopp.net/bitcoin.html
 
 https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833[Explain Bitcoin Like I'm Five]
 
-The story for a child who would like to know more how to digitize apple transferring.
+This is a story about a child who would like to know more how to digitize apple transferring.
 Good analogy with tokenization of economy. Easy to understand blockchain.
-
 
 ==== Who is uncle Tommy?
 ===== 
@@ -22,7 +21,7 @@ Good analogy with tokenization of economy. Easy to understand blockchain.
 
 https://www.upfolio.com/ultimate-bitcoin-guide[Bitcoin Explained]
 
-It is a clever system that allows complete strangers to securely send money directly between each other – no trust required! Amazingly, no third party (like a bank) is required, either. 
+It is an intelligent system that allows strangers to send money directly between each other securely – no trust required! Amazingly, no third party (like a bank) is required, either. 
 
 ==== What makes Bitcoin so unique?
 ===== 
@@ -35,13 +34,11 @@ It is a clever system that allows complete strangers to securely send money dire
 ----
 +++ </div></details> +++
 
-https://lopp.net/pdf/bitcoin.pdf[The Bitcoin Whitepaper written by Satoshi Nakamoto]
+https://lopp.net/pdf/bitcoin.pdf[The Bitcoin Whitepaper wrote by Satoshi Nakamoto]
 
-The description of the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification. 
+This white paper describe the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification.  It is an excellent material for understanding the complexity of the solution.
 
-
-==== The description of the innovative technology in mathematical terms with explanation logic of work, privacy, payment verification. 
-
+==== 
 ===== 
 ===== 
 +++ <details><summary> +++
@@ -72,7 +69,7 @@ Questions and comments to the whitepaper of famous cryptocurrency by readers of 
 
 http://www.coindesk.com/information/[Beginner's Guide to Bitcoin by CoinDesk]
 
-You will get answers to the next questions 
+This section help to answer the next questions 
 What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
 
 
@@ -89,7 +86,7 @@ What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fas
 
 http://blog.oleganza.com/post/85111558553/bitcoin-is-like[Bitcoin is Like…]
 
-Version and controversion. Comparing and analyze of Bitcoin states and forms. Amazing idea to tell about a complex subject. 
+Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
 
 ==== Is Bitcoin gold of the new era? 
 ===== 
@@ -106,7 +103,6 @@ https://www.rhymeswithfiat.com/[A Bitcoin Webcomic (with educational notes)]
 
 Witty comics about talks between heroes of Ethereum and Bitcoin.Short stories with funny culmination. 
 
-
 ==== 
 ===== 
 ===== 
@@ -120,8 +116,7 @@ Witty comics about talks between heroes of Ethereum and Bitcoin.Short stories wi
 
 https://www.bitcoindesigned.com/[Bitcoin Infographics]
 
-Well designed infographics that demonstrate in an easy way different conceptions of Bitcoin. You will get the answers is Bitcoin anonymous or about Byzantine general problem. 
-
+The Infographics that demonstrate in a natural way different conceptions of Bitcoin. You get the answers is Bitcoin anonymous or about Byzantine general problem. 
 
 ==== 
 ===== 
@@ -136,8 +131,6 @@ Well designed infographics that demonstrate in an easy way different conceptions
 
 https://www.youtube.com/watch?v=ZKwqNgG-Sv4[The Trust Machine: The Story of Bitcoin]
 
-
-
 ==== 
 ===== 
 ===== 
@@ -151,6 +144,5 @@ https://www.youtube.com/watch?v=ZKwqNgG-Sv4[The Trust Machine: The Story of Bitc
 
 https://readingbitcoin.org/[Reading Bitcoin - translated articles]
 
-The aggregator of articles from the famous platform like blockstream.com written by different bloggers. Good explanation of material with visualization of not trivial technologies and processes. 
-
+The aggregator of articles from the leading platform like blockstream.com written by different bloggers. Good explanation of material with visualization of not trivial technologies and processes. 
 
