@@ -54,11 +54,10 @@ http://fermatslibrary.com/s/bitcoin[The Bitcoin Whitepaper with annotations]
 Questions and comments to the whitepaper of famous cryptocurrency by readers of Ferman’s library. Interesting positions of readers and disputes.
 
 
-==== Escrow with bitcoin? Is this possible?
- 
+=== Escrow with bitcoin? Is this possible?
+==== 
+==== 
 
-===== 
-===== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -73,9 +72,9 @@ This section help to answer the next questions
 What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
 
 
-==== What Can You Buy with Bitcoin?
-===== 
-===== 
+=== What Can You Buy with Bitcoin?
+==== 
+==== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -88,9 +87,9 @@ http://blog.oleganza.com/post/85111558553/bitcoin-is-like[Bitcoin is Like…]
 
 Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
 
-==== Is Bitcoin gold of the new era? 
-===== 
-===== 
+=== Is Bitcoin gold of the new era? 
+==== 
+==== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -103,9 +102,9 @@ https://www.rhymeswithfiat.com/[A Bitcoin Webcomic (with educational notes)]
 
 Witty comics about talks between heroes of Ethereum and Bitcoin.Short stories with funny culmination. 
 
+=== 
 ==== 
-===== 
-===== 
+==== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -118,9 +117,9 @@ https://www.bitcoindesigned.com/[Bitcoin Infographics]
 
 The Infographics that demonstrate in a natural way different conceptions of Bitcoin. You get the answers is Bitcoin anonymous or about Byzantine general problem. 
 
+=== 
 ==== 
-===== 
-===== 
+==== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -131,9 +130,9 @@ The Infographics that demonstrate in a natural way different conceptions of Bitc
 
 https://www.youtube.com/watch?v=ZKwqNgG-Sv4[The Trust Machine: The Story of Bitcoin]
 
+=== 
 ==== 
-===== 
-===== 
+==== 
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
