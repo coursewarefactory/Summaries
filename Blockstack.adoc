@@ -1,6 +1,7 @@
 ==  Blockstack development
 ===  Principles of Blockstack applications
 https://docs.blockstack.org/develop/dapp_principles.html
+
 Link: There are different perspectives on what makes a decentralized app but Blockstack Dapps only adheres to three.
 - Users own their data
 - Users own their identities
@@ -21,8 +22,11 @@ Other principles not required for Blockstack Dapps are called non-principles
 
 ----
 +++ </div></details> +++
+
 === Developer FAQs
+
 Link: https://docs.blockstack.org/core/faq_developer.html
+
 Both web developers and non-web developers can build on Blockstack. Blockstack apps are like web app but they use Blockstack technology to maintain user’s control over data and identities. Web apps interact with Blockstack using the Blockstack.js library and public RESTful API. Blockstack IDs can be created using Blockstack Browser and this is done manually for now. Blockstack subdomains can be registered using a Blockstack Subdomain Registrar and this can be done programmatically. Blockstack does not have the smart contract feature yet
 
 ==== What does Blockstack.js do?
@@ -39,7 +43,9 @@ Read other users’ public data
 +++ </div></details> +++
 
 === Hello Blockstack tutorial
+
 Link: https://docs.blockstack.org/browser/hello-blockstack.html
+
 In this chapter, you learn to generate a simple app on Blockstack. The application is decentralized and serverless. You must have created at least one Blockstack ID to be able to interact with the application. Tools you need for this tutorial include npm, browserify and Blockstack.js. When the app is complete it will be able to:
 -          Authenticate users using blockstack
 -          Post new statuses
@@ -59,8 +65,11 @@ After creating your app, you will create a github repo for your code and send it
 Displaying statuses in the user profile
 ----
 +++ </div></details> +++
+
 === To-do list application tutorial
+
 Link: https://docs.blockstack.org/browser/todo-list.html
+
 In this tutorial, you learn how to build and run a single-page application (SPA) with Blockstack and Vue.js. You will learn how it manages authentication using Blockstack ID and information storage using Blockstack storage (Gaia). You will also be needing npm, browserify and Blockstack.js here. The to-do application has a basic Vue.js structure. When Blockstack is provided with an ID, it generates an ephemeral key which is used to sign a sign in request
 
 ==== What files are responsible for signing in and out?
@@ -68,6 +77,7 @@ In this tutorial, you learn how to build and run a single-page application (SPA)
 ===== Landing.vue – generates the authrequest  
 ===== Dashboard.vue – handles sign out
 ===== Dashboard.vue – handles sign out
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -75,12 +85,14 @@ In this tutorial, you learn how to build and run a single-page application (SPA)
 Dashboard.vue – handles sign out
 ----
 +++ </div></details> +++
+
 === Blockstack storage tutorial 
+
 Link: https://docs.blockstack.org/browser/blockstack_storage.html
+
 In this tutorial, you build a micro-blogging application using multi-player Gaia storage. Gaia is Blockstack's decentralized high performance storage system. Every app that uses Gaia storage must add itself to the user's profile.json file. The Blockstack browser does this automatically when the publish_data scope is requested during authentication. For this application, the user files stored on Gaia are made visible to others via the app’s property in the user's profile.json file. Once you authenticate a user with store_write and publish_data, you can begin to manage data for your users. Blockstack JS provides two methods getFile() and putFile() for interacting with Gaia storage. The storage methods support all file types.
 
 ==== What file formats can you save on Gaia
-
 ===== Markdown
 ===== JSON
 ===== JSON
@@ -93,6 +105,7 @@ JSON
 +++ </div></details> +++
 
 === Add Blockstack auth to a website
+
 Link: https://docs.blockstack.org/develop/auth_provider.html
 This chapter teaches you how to add Blockstack authentication to a web app. Basic knowledge of Ruby or Rails is required to add this feature to a site. You need to be running a Ruby 2.0 or higher to complete this tutorial. You'll use the <a href=https://github.com/OmniAuth/OmniAuth=_blank>OmniAuth</a> plugin to setup Blockstack authentication. OmniAuth is a popular framework for integrating third-party authentication with a ruby on rails website. Blockstack provides an OmniAuth plugin, OmniAuth-blockstack to make this easy for you. To test the Blockstack authenticator, you first need to sign in with your Blockstack ID
 
@@ -101,6 +114,7 @@ This chapter teaches you how to add Blockstack authentication to a web app. Basi
 ===== Personal information is encrypted and remains under the control of the user
 ===== Users can now edit who has access to their data, know who accessed their data and which data were accessed
 ===== Users can now edit who has access to their data, know who accessed their data and which data were accessed
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
