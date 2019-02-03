@@ -8,7 +8,7 @@ There are different perspectives on what makes a decentralized app, but Blocksta
 - Users have free choice of clients Other principles not required for Blockstack Dapps are called non-principles
 
 
-==== What are the non-principles that Blockstack does not operate on DApps have smart contracts
+==== What are the non-principles that Blockstack does not operate on DApps have smart contracts?
 
  
 ===== Dapps have tokens and/or non-fungible assets
@@ -47,10 +47,13 @@ Link: https://docs.blockstack.org/browser/hello-blockstack.html
 
 In this chapter, you learn to how to generate a simple app on Blockstack. The application is decentralized and serverless. You must have created at least one Blockstack ID to be able to interact with the application. Amont tools that you need for this tutorial are npm, browserify and Blockstack.js. When the app is complete it able to:
 
--          Authenticate users using blockstack
--          Post new statuses
--          Display statuses in the user profile
--          Look up status and profile of other users
+- Authenticate users using blockstack
+
+- Post new statuses
+
+- Display statuses in the user profile
+
+- Look up status and profile of other users
 
 After creating your app, you will create a github repo for your code and send it to the master branch of the remote repo.
 
@@ -93,7 +96,7 @@ Link: https://docs.blockstack.org/browser/blockstack_storage.html
 
 In this tutorial, you build a micro-blogging application using multi-player Gaia storage. Gaia is Blockstack's decentralized high performance storage system. Every app that uses Gaia storage must add itself to the user's profile.json file. The Blockstack browser does this automatically when the publish_data scope is requested during authentication. For this application, the user's files stored on Gaia are made visible to others via the app’s property in the user's profile.json file. Once you authenticate a user with store_write and publish_data, you can begin to manage data for your users. Blockstack JS provides two methods getFile() and putFile() for interacting with Gaia storage. The storage methods support all file types.
 
-==== What file formats can you save on Gaia
+==== What file formats can you save on Gaia?
 ===== Markdown
 ===== JSON
 ===== JSON
@@ -131,7 +134,7 @@ Link: https://docs.blockstack.org/develop/zero_to_dapp_1.html
 
 This chapter teaches how to build and run a Dapp called animal kingdom. It requires you to login with your Blockstack ID and create an animal persona that will rule over a certain territory. The kingdom is a combination of persona and territory. Dapps differ from traditional apps because they transfer data control and identity management to the user. This means that central authorities or middlemen control networks will not be able to access, censor or shutdown the service. The identity created can be used across different platforms. 
 
-==== What are the eligibility requirements for App mining
+==== What are the eligibility requirements for App mining?
 
 ===== Your application must be available for review
 ===== Invite registration and use by the general public
@@ -189,6 +192,7 @@ https://docs.blockstack.org/ios/tutorial.html
 
 This tutorial aimed at teaching readers that are new to either or both of Blockstack and Android/IOS Dapp development. The dapp that built is expected to run on an Android operating system. There are certain prerequisite materials you need to install to proceed with this tutorial. The Dapp produced will be tested in an emulator twice to make sure it runs. Some components still need to be added especially the Blockstack SDK
 
+==== What steps are involved in interacting with final sample application?
 ===== Open application
 ===== User enters Blockstack ID
 ===== Blockstack validates and app opens
