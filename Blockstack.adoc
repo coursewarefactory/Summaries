@@ -179,7 +179,7 @@ Link: https://docs.blockstack.org/android/tutorial.html
 
 https://docs.blockstack.org/ios/tutorial.html
 
-==== This tutorial is aimed at teaching readers that are new to either or both of Blockstack and android/IOS Dapp development. The dapp that wil be built is expected to run on an android operating system. There are certain prerequisite materials you need installed to proceeed with this tutorial. The Dapp produced will be tested in an emulator twice to make sure it runs. Some components still need to be added especially the Blockstack SDK
+This tutorial is aimed at teaching readers that are new to either or both of Blockstack and android/IOS Dapp development. The dapp that wil be built is expected to run on an android operating system. There are certain prerequisite materials you need installed to proceeed with this tutorial. The Dapp produced will be tested in an emulator twice to make sure it runs. Some components still need to be added especially the Blockstack SDK
 
 ===== Open application
 ===== User enters Blockstack ID
