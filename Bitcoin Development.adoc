@@ -53,7 +53,6 @@ http://fermatslibrary.com/s/bitcoin[The Bitcoin Whitepaper with annotations]
 
 Questions and comments to the whitepaper of famous cryptocurrency by readers of Ferman’s library. Interesting positions of readers and disputes.
 
-
 === Escrow with bitcoin? Is this possible?
 ==== 
 ==== 
@@ -70,7 +69,6 @@ http://www.coindesk.com/information/[Beginner's Guide to Bitcoin by CoinDesk]
 
 This section help to answer the next questions 
 What is Bitcoin? It's a decentralized digital currency Why Use Bitcoin? It's fast, cheap to use, and secure How Can I Buy Bitcoin? From an exchange or an individual, How to Buy Bitcoin in the UK, Buying bitcoin in the UK,  How to Store Your Bitcoin  Use a digital or paper wallet
-
 
 === What Can You Buy with Bitcoin?
 ==== 
