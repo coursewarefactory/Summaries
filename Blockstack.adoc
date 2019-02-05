@@ -8,7 +8,7 @@ There are different perspectives on what makes a decentralized app, but Blocksta
 - Users have free choice of clients Other principles not required for Blockstack Dapps are called non-principles
 
 
-==== What are the non-principles that Blockstack does not operate on DApps have smart contracts?
+=== What are the non-principles that Blockstack does not operate on DApps have smart contracts?
 
  
 ==== DApps have smart contracts
@@ -29,7 +29,7 @@ Link: https://docs.blockstack.org/core/faq_developer.html
 
 Web developers and non-web developers can build on Blockstack. Blockstack apps are like a web app, but they use Blockstack technology to maintain user’s control over data and identities. Web apps interact with Blockstack using the Blockstack.js library and public RESTful API. Blockstack IDs can be created using Blockstack Browser, and this is done manually for now. Blockstack subdomains can be registered using a Blockstack Subdomain Registrar, and this can be done programmatically. Blockstack does not have the smart contract feature yet.
 
-==== What does Blockstack.js do?
+=== What does Blockstack.js do?
 
 ==== Authenticate users
 ==== Load and store user data
@@ -60,7 +60,7 @@ In this chapter, you learn to how to generate a simple app on Blockstack. The ap
 
 After creating your app, you will create a github repo for your code and send it to the master branch of the remote repo.
 
-==== When application is completed, what is the application capable of?
+=== When application is completed, what is the application capable of?
 
 ==== Authenticating users using Blockstack
 ==== Posting new statuses
