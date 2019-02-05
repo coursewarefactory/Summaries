@@ -11,9 +11,10 @@ There are different perspectives on what makes a decentralized app, but Blocksta
 ==== What are the non-principles that Blockstack does not operate on DApps have smart contracts?
 
  
-===== Dapps have tokens and/or non-fungible assets
-===== Dapps use a blockchain
-===== Dapps use a blockchain
+==== DApps have smart contracts
+==== Dapps have tokens and/or non-fungible assets
+==== Dapps use a blockchain
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -30,9 +31,11 @@ Web developers and non-web developers can build on Blockstack. Blockstack apps a
 
 ==== What does Blockstack.js do?
 
-===== Load and store user data
-===== Read other users’ public data
-===== Read other users’ public data
+==== Authenticate users
+==== Load and store user data
+==== Read other users’ public data
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -57,11 +60,12 @@ In this chapter, you learn to how to generate a simple app on Blockstack. The ap
 
 After creating your app, you will create a github repo for your code and send it to the master branch of the remote repo.
 
-==== When complete, what is the application capable of?
+==== When application is completed, what is the application capable of?
 
-===== Posting new statuses
-===== Displaying statuses in the user profile
-===== Displaying statuses in the user profile
+==== Authenticating users using Blockstack
+==== Posting new statuses
+==== Displaying statuses in the user profile
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -76,11 +80,12 @@ Link: https://docs.blockstack.org/browser/todo-list.html
 
 In this tutorial, you learn how to build and run a single-page application (SPA) with Blockstack and Vue.js. You will learn how it manages authentication using Blockstack ID and information storage using Blockstack storage (Gaia). You will need npm, browserify and Blockstack.js here. The to-do application has a basic Vue.js structure. When Blockstack is provided with an ID, it generates an ephemeral key which is used to sign a sign-in request.
 
-==== What files are responsible for signing in and out?
+=== What files are responsible for signing in and out?
 
-===== Landing.vue – generates the authrequest  
-===== Dashboard.vue – handles sign out
-===== Dashboard.vue – handles sign out
+==== App.vue – handles the authresponse
+==== Landing.vue – generates the authrequest  
+==== Dashboard.vue – handles sign out
+
 
 +++ <details><summary> +++
     Answer
@@ -96,10 +101,13 @@ Link: https://docs.blockstack.org/browser/blockstack_storage.html
 
 In this tutorial, you build a micro-blogging application using multi-player Gaia storage. Gaia is Blockstack's decentralized high performance storage system. Every app that uses Gaia storage must add itself to the user's profile.json file. The Blockstack browser does this automatically when the publish_data scope is requested during authentication. For this application, the user's files stored on Gaia are made visible to others via the app’s property in the user's profile.json file. Once you authenticate a user with store_write and publish_data, you can begin to manage data for your users. Blockstack JS provides two methods getFile() and putFile() for interacting with Gaia storage. The storage methods support all file types.
 
-==== What file formats can you save on Gaia?
-===== Markdown
-===== JSON
-===== JSON
+=== What file formats can you save on Gaia?
+
+==== SQL
+==== Markdown
+==== JSON
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -114,11 +122,11 @@ Link: https://docs.blockstack.org/develop/auth_provider.html
 
 This chapter teaches you how to add Blockstack authentication to a web app. Basic knowledge of Ruby or Rails is required to add this feature to a site. You need to run a Ruby 2.0 or higher to complete this tutorial. You'll use the https://github.com/OmniAuth/OmniAuth=_blank[OmniAuth] plugin to setup Blockstack authentication. OmniAuth is a popular framework for integrating third-party authentication with a Ruby on Rails website. Blockstack provides an OmniAuth plugin, OmniAuth-blockstack to make this easy for you. To test the Blockstack authenticator, you first need to sign in with your Blockstack ID
 
-==== What are the advantages of DApp over app?
+=== What are the advantages of DApp over app?
 
-===== Personal information is encrypted and remains under the control of the user
-===== Users can now edit who has access to their data, know who accessed their data and which data were accessed
-===== Users can now edit who has access to their data, know who accessed their data and which data were accessed
+==== You can use identity for different products and services
+==== Personal information is encrypted and remains under the control of the user
+==== Users can now edit who has access to their data, know who accessed their data and which data were accessed
 
 +++ <details><summary> +++
     Answer
@@ -134,11 +142,13 @@ Link: https://docs.blockstack.org/develop/zero_to_dapp_1.html
 
 This chapter teaches how to build and run a Dapp called animal kingdom. It requires you to login with your Blockstack ID and create an animal persona that will rule over a certain territory. The kingdom is a combination of persona and territory. Dapps differ from traditional apps because they transfer data control and identity management to the user. This means that central authorities or middlemen control networks will not be able to access, censor or shutdown the service. The identity created can be used across different platforms. 
 
-==== What are the eligibility requirements for App mining?
+=== What are the eligibility requirements for App mining?
 
-===== Your application must be available for review
-===== Invite registration and use by the general public
-===== Invite registration and use by the general public
+==== Implement blockstack authentication
+==== Your application must be available for review
+==== Invite registration and use by the general public
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -153,11 +163,15 @@ Link: https://docs.blockstack.org/develop/zero_to_dapp_2.html
 
 The Blockstack platform aims to lower the barriers required for building with blockchain technology. This includes letting developers build applications in any JavaScript framework so they do not have to learn any new languages. You also need to get prerequisites and set up the environment to continue the procedures in this tutorial. Owning a Blockstack ID is important since it will be required to test your animal kingdom. The animal kingdom code can be downloaded from a public repository on github
 
-==== What are the prerequisites you need to setup your environment?
+=== What are the prerequisites you need to setup your environment?
 
-===== Access to the Mac terminal window and some familiarity with the command line it provides
-===== The node package manager package manager
-===== The node package manager package manager
+==== A Blockstack ID to test your animal kingdom
+==== Access to the Mac terminal window and some familiarity with the command line it provides
+==== The node package manager package manager
+
+
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -172,11 +186,13 @@ Link: https://docs.blockstack.org/develop/zero_to_dapp_3.html
 
 The animal kingdom has two major components; React and Blockstack. React is used to build web components and interactions. Signing in with an identity is the means the Dapp gets access and this means the app can now read/write user data which is stored at a unique URL on a Gaia storage hub. Your Dapp contains 3 pages; animals, territories and other kingdoms. While running your Dapp locally, only you can use it to create a kingdom. Your application will be available to others by hosting it on the internet.  The animal kingdom you created on your work station is different from the one you create on netlify. You can add subjects from other kingdoms that you know but other kingdoms cannot access your own subjects.
 
-==== The DApp contains 3 pages. What code elements are they derived from?
+=== The DApp contains 3 pages. What code elements are they derived from?
 
-===== The public/animals directory which contains images
-===== The public/territories directory which contains images
-===== The public/territories directory which contains images
+==== The src/constants.js file which defines the application’s data profile
+==== The public/animals directory which contains images
+==== The public/territories directory which contains images
+
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -192,10 +208,11 @@ https://docs.blockstack.org/ios/tutorial.html
 
 This tutorial aimed at teaching readers that are new to either or both of Blockstack and Android/IOS Dapp development. The dapp that built is expected to run on an Android operating system. There are certain prerequisite materials you need to install to proceed with this tutorial. The Dapp produced will be tested in an emulator twice to make sure it runs. Some components still need to be added especially the Blockstack SDK
 
-==== What steps are involved in interacting with final sample application?
-===== Open application
-===== User enters Blockstack ID
-===== Blockstack validates and app opens
+=== What steps are involved in interacting with final sample application?
+==== Open application
+==== User enters Blockstack ID
+==== Blockstack validates and app opens
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
