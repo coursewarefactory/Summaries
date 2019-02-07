@@ -1,4 +1,4 @@
-== Bitcoin
+== Bitcoin 101
 === Bitcoin Development
 Link: https://lopp.net/bitcoin.html
 
