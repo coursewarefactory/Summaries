@@ -1,5 +1,4 @@
-== Bitcoin
-=== Bitcoin Development (source)
+==  Bitcoin Developer Tools
 Link: https://lopp.net/bitcoin.html
 
 
