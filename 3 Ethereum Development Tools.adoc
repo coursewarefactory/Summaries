@@ -1,5 +1,5 @@
-== Ethereum Development (source)
-=== Ethereum Development Tools
+==  Ethereum Development Tools
+
 
 
 Link: http://solidity.readthedocs.io/en/latest/
