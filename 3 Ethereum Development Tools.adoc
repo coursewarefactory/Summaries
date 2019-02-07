@@ -7,7 +7,7 @@ Link: http://solidity.readthedocs.io/en/latest/
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behavior of accounts within the Ethereum state.
 
 
-==== What it is EVM?
+==== What is it EVM?
 
 ===== Ethereum Virtual Machine
 ===== Ethereum Viable Machine
@@ -41,13 +41,14 @@ Provide access to the Ethereum and To publish contracts
 Link: https://faucet.rinkeby.io/
 
 Rinkeby is a Proof-of-Authority network, so uses a different consensus mechanism to the main net. The Ropsten testnet is Proof-of-Work, so more similar to the public main net.
-Rinkeby faucet provide you with some test coins for testnet.
+Rinkeby faucet provides you with some test coins for test network.
 
 
-==== How you can get test coins in Rinkeby faucet?
+==== How can you get test coins in Rinkeby faucet?
 ===== Ask Vitalik Buterin
 ===== To follow special instructions
-===== To buy in vending machine
+===== To buy in a vending machine
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -58,10 +59,10 @@ To follow special instructions
 
 Link: https://github.com/ethereum/go-ethereum/wiki/geth
 
-geth is the command line interface for running a full ethereum node implemented in Go. It is the main deliverable of the Frontier Release
+Geth is the command line interface for running a full ethereum node implemented in Go. It is the main deliverable of the Frontier Release
 
 
-==== How you can use geth in your dApp development?
+==== How can you use geth in your dApp development?
 
 ===== Managing accounts
 ===== Mining
@@ -76,7 +77,7 @@ All answers are correct
 
 Link: https://www.parity.io/
 
-Parity develops cutting-edge blockchain technologies to foster innovation such as Parity Ethereum, Parity Bitcoin, Polkadot and others.
+Parity develops cutting-edge blockchain technologies to foster innovation such as Parity Ethereum, Parity Bitcoin, Polkadot, and others.
 
 
 ==== Open question: Why Kovan so useful for development?
@@ -115,7 +116,7 @@ Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. I
 
 
 ==== What is the main purpose of Web.js in blockchain development?
-===== To realize connection between ethereum and external systems
+===== To realize the connection between ethereum and external systems
 ===== To provide ethers to the users of Ethereum
 ===== To make development easier
 +++ <details><summary> +++
@@ -128,7 +129,7 @@ To realize connection between ethereum and external systems
 
 Link: https://github.com/ethereum/web3.py
 
-Web3.py is a python library for interacting with Ethereum. Its API is derived from the Web3.jsJavascript API and should be familiar to anyone who has used web3.js.
+Web3.py is a python library for interacting with Ethereum. Its API is derived from the Web3.js Javascript API and should be familiar to anyone who has used web3.js.
 
 
 
@@ -160,7 +161,7 @@ Truffle Boxes are helpful boilerplates that allow you to focus on what makes you
 
 Link: https://github.com/truffle-box/drizzle-box
 
-This box comes with everything you need to start using smart contracts from a react app with Drizzle. It includes drizzle, drizzle-react and drizzle-react-components to give you a complete overview of Drizzle's capabilities.
+This box comes with everything you need to start using smart contracts from a react app with Drizzle. It includes drizzle, drizzle-react, and drizzle-react-components to give you a complete overview of Drizzle's capabilities.
 
 
 ==== What command install Drizzle?
@@ -197,12 +198,12 @@ npm install openzeppelin-solidity
 Link: https://ipfs.io/docs/
 
 When you use IPFS, you don’t only download a file from someone else, but your computer can help distribute it, too — when your friend a few blocks away needs the same Wikipedia page, they might be as likely to get it from you like your neighbor.
-IPFS makes this possible for web pages, but also for any kind of file a computer might store, whether it’s an MS Word document, an e-mail, an MP3 file, or even a database record.
+IPFS makes this possible for web pages, but also for any file a computer might store, whether it’s an MS Word document, an e-mail, an MP3 file, or even a database record.
 
 
 ==== What is the difference between IPFS and MFS?
 
-===== Files in IPFS are content-addressed and immutable, they can be complicated to edit. Mutable File System (MFS) is a tool built into IPFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
+===== Files in IPFS are content-addressed and immutable; they can be complicated to edit. Mutable File System (MFS) is a tool built into IPFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
 ===== Files in MFS are content-addressed and immutable, they can be complicated to edit. iPFS is a tool built into MFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
 ===== Files in IPFS are content-addressed and immutable, they can be complicated to edit. Mutable File System (MFS) is a separate tool that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you
 +++ <details><summary> +++
@@ -234,8 +235,8 @@ Swarm: Serverless Hosting Incentivised Peer-To-Peer Storage And Content Distribu
 
 Link: https://github.com/ethereum/wiki/wiki/Whisper
 
-In a nutshell whisper is a communication protocol for DApps to communicate with each other.
-Some existing solutions are MQ: A distributed messaging system, no inherent privacy safeguards.Bitmessage: Similar in the basic approach of P2P network exchanging messages with baseline PKI for dark comms. 
+In a nutshell, whisper is a communication protocol for DApps to communicate with each other.
+Some existing solutions are MQ: A distributed messaging system, no inherent privacy safeguards. Bitmessage: Similar in the basic approach of P2P network exchanging messages with baseline PKI for dark comms. 
 
 
 ==== For what type of dApps Whisper can be useful?
@@ -275,7 +276,7 @@ Link: https://etherscan.io/
 Etherscan is the leading BlockExplorer for the Ethereum Blockchain. A BlockExplorer is basically a search engine that allows users to easily lookup, confirm and validate transactions that have taken place on the Ethereum Blockchain. We are independently operated and developed by a team of individuals who are truly passionate and excited about the kinds of decentralized information and infrastructure applications that Ethereum makes possible. 
 
 
-==== Where you can find information about published tokens?
+==== Where can you find information about published tokens?
 
 ===== https://etherscan.io/
 ===== https://etherscan.com/
