@@ -435,6 +435,8 @@ Mike Hearn
 
 Link: https://soundcloud.com/blockchannelshow
 
+BlockChannel, is a crypto show dedicated to educating the world on the power of blockchain based technologies like Bitcoin, Ethereum, and ZCash. Episodes whenever we feel like it - deal with it. Creator: Steven McKie.
+
 What's the name of the platform trying to put Geo-Spatial mapping on the Ethereum blockchain? 
 
 +++ <details><summary> +++
@@ -465,7 +467,9 @@ A browser
 ----
 +++ </div></details> +++
 
-== Unchained Podcast 
+== https://itunes.apple.com/us/podcast/unchained-big-ideas-from-worlds-blockchain-cryptocurrency/id1123922160?mt=2[Unchained Podcast]
+
+In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money. Tune in to find out how Web 3.0, the decentralized web, will revolutionize our world.
 
 What's Riccardo Spagni Twitter handle? 
 
@@ -497,7 +501,9 @@ Numerai
 ----
 +++ </div></details> +++
 
-== Conspiratus Podcast
+== https://itunes.apple.com/us/podcast/conspiratus/id1335928646?mt=2[Conspiratus Podcast]
+
+Conspiratus is Latin for consensus. Through discourse and discussion, we attempt to reach consensus on the state and future of distributed consensus and decentralization technologies.
 
 What is this? 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
 
