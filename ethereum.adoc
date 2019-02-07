@@ -7,7 +7,7 @@ Ethereum is a platform that demonstrates the fast growth from general purpose bl
 
 
 ==== What does it mean Turing completeness of Ethereum?
-===== Ethereum can lauch programms that will not terminate
+===== Ethereum can lauch programms that will terminate
 ===== All programms on the Ethereum can be terminated
 ===== Ethereum can lauch programms that will not terminate
 +++ <details><summary> +++
