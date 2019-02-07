@@ -1,4 +1,4 @@
-==  Blockstack development
+==  Developing dApps with Blockstack
 ===  Principles of Blockstack applications
 https://docs.blockstack.org/develop/dapp_principles.html
 
