@@ -7,7 +7,7 @@ https://stephanlivera.com/download-episode/942/46.mp3?ref=download[Stephan Liver
 
 This is a cryptocurrency podcast channel focused on reaching bitcoin software developers, entrepreneurs, business leaders, analysts, economists and more. 
 On episode 46 of the podcast, in an interview with Sjors Provoost from the Netherlands who mentioned he had to learn C++ from the basics as this is the language bitcoin code is written in.
-The bitcoin technology is getting more complicated, with new work being built on the fundamentals until one day you have to rebuild the entire foundation. Reviews often can get in the way of each other because of the decentralized nature of the system. There are systems in place to avoid this (10:35-14:30). 
+The Bitcoin technology is getting more complicated, with new work being built on the fundamentals until one day you have to rebuild the entire foundation. Reviews often can get in the way of each other because of the decentralized nature of the system. There are systems in place to avoid this (10:35-14:30). 
 
 === Advantages of hardware wallets
 ==== Private keys are stored safely and can’t be exported as plain text
@@ -23,7 +23,7 @@ Can be used securely and interactively. Private keys never need to come in conta
 
 https://cryptovoices.com/[CRYPTO VOICES]
 
-This is a bitcoin podcast run by Matthew Mezinskis and Fernando Ulrich. On the episode 52 of their podcast they had Ragnar Lifthrasir, a real estate professional, Founder of IBREA (International Blockchain Real Estate Association). He saw an opportunity in the contrast between real estate and bitcoin; real estate is fragmented and centralized while bitcoin offers unity and decentralization (3:20-4:49).
+This is a bitcoin podcast run by Matthew Mezinskis and Fernando Ulrich. On episode 52 of their podcast, they had Ragnar Lifthrasir, a real estate professional, Founder of IBREA (International Blockchain Real Estate Association). He saw an opportunity in contrast between real estate and bitcoin; real estate is fragmented and centralized while bitcoin offers unity and decentralization (3:20-4:49).
 Tokenization has different meanings 
 i. Using a token to transfer ownership
 ii. Using a token to own a portion of ownership
@@ -47,13 +47,13 @@ Government records
 
 https://hwcdn.libsyn.com/p/a/e/7/ae70b5890866dc50/7296115-44100-2-ab35ea8bd7e1b.mp3?c_id=29425319&forcedn=attachment&cs_id=29425319&destination_id=583022&expiration=1548231416&hwt=a934bd90aa3ba71c2737f3417eb7457b[TALES FROM THE CRYPT]
 
-Tales from the crypt is a podcast hosted by Marty Bent who usually has interesting people on to discuss bitcoin. On this episode he has Yassine Elmandjra, Crypto analyst at ARK Invest to discuss topics ranging from bitcoin mining, how he started bitcoin and others. 
+Tales from the crypt is a podcast hosted by Marty Bent who usually has interesting people on to discuss bitcoin. On this episode, he has Yassine Elmandjra, Crypto analyst at ARK Invest to discuss topics ranging from bitcoin mining, how he started bitcoin and others. 
 Bitcoin is bootstrapped to three main components;
 i. Reward mechanism- rewarding honest node behavior during the consensus process
 ii. Proof of work- deals with identity and civil attacks
 iii. Nakamoto consensus- to prevent double spending
 Mining started as a hobby among the first bitcoin adopters in 2009 and was done on desktop computers. In 2010, the trend shifted to GPUs. 2011 brought the FGEA based miners. Next, we saw the ASIC miners with efficiency now determined by how advanced the node is. 
-Cost of mining is also affected by electricity costs. This has caused bitcoin miners to explore renewable energy. According to coinshares, bitcoin miners use 77% renewable energy compared to 18% average of other industries.
+Cost of mining is also affected by electricity costs. This has caused bitcoin miners to explore renewable energy. According to coin shares, bitcoin miners use 77% renewable energy compared to 18% average of other industries.
 
 === What possible factors affect the price of bitcoin mining?
 ==== Price of electricity
@@ -91,7 +91,7 @@ To measure solvency of 3rd parties in cryptocureency
 https://ondemand-us-dal01.cdnstream1.com/d/clips/e6cb0305-7c74-4a39-8d62-a896017e2917/020e8074-c5f9-443d-b254-a8c4003fffbc/0e847fb4-ac17-4071-8efb-a8c4004d7442/audio/direct/t1547783003/Bitcoin_Bull_Run_and_How_to_Use_Exchanges.mp3?t=1547783003&publisher=omny&aw_0_1st.program=The+Bad+Crypto+Podcast&aw_0_1st.organization=Aaron+The+Tech&aw_0_azn.pgenre=%5b%22Business%22%5d&aw_0_azn.pname=The+Bad+Crypto+Podcast&listeningSessionID=5c46a5c7df2bbf33_6072532_22__752d973e1786067349f22a49e9fa565328e49392[THE BAD CRYPTO PODCAST]
 
 This is a fun and interactive podcast run by two interesting guys, Joel Comm and Travis Wright.
-Reddit is a good place to gain knowledge about bitcoin and almost all legitimate coins have their own reddit, so you can go there to interact with their users. How to use exchanges was explained (21:31-31:59). While using exchanges, always make sure you have your 2FA feature turned on to doubly safeguard your assets. Your assets should not be kept in exchange wallets to prevent hackers getting to them but instead it should be kept in an offline wallet.   
+Reddit is a good place to gain knowledge about bitcoin and almost all legitimate coins have their own reddit, so you can go there to interact with their users. How to use exchanges was explained (21:31-31:59). While using exchanges, always make sure you have your 2FA feature turned on to doubly safeguard your assets. Your assets should not be kept in exchange wallets to prevent hackers getting to them, but instead, it should be kept in an offline wallet.   
 
 === What security precautions can you take to safeguard your bitcoin?
 ==== Do not store your bitcoin on web wallets
@@ -108,19 +108,19 @@ Make use of a hardware wallet
 https://media.simplecast.com/episodes/audio/247752/Ep21.mp3[CITIZEN BITCOIN]
 
 This is a bitcoin blog aimed at educating bitcoin enthusiasts run by Brady Swenson and Cannons Call. 
-Lindy Effect-The future life expectancy of some nonperishable thing like an idea or technology is proportional to their current age so that every additional period of survival implies a longer remaining life expectancy. Bitcoin is the first atempt at a digital currency that was successful (08:52-10:54 and 12:28-14:06)
+Lindy Effect-The future life expectancy of some nonperishable thing like an idea or technology is proportional to their current age so that every additional period of survival implies a longer remaining life expectancy. Bitcoin is the first attempt at a digital currency that was successful (08:52-10:54 and 12:28-14:06)
 Notable Events
- Jan 3rd 2009; the first block was mined by Satoshi Nakamoto and the code was shared on Jan 8th 
- May 2010; Laszlow Hkynyecz sent 10K BTC for 2 pizzas worth $25. First USd value attached to BTC
- 2010; BTC broke the penny threshold for the first time in 2010
- 2011; BTC broke the $1 threshold for the first time
- Aug 2017; BCH hard fork happened 
- 2nd layer of BTC, Lightning network stayed on with the BTC chain. 
- 2018; phenomenal growth of lightning network. Network capacity went from 0-515 BTC, public nodes went from 0-4800
+*Jan 3rd 2009; the first block was mined by Satoshi Nakamoto and the code was shared on Jan 8th 
+*May 2010; Laszlow Hkynyecz sent 10K BTC for 2 pizzas worth $25. First USD value attached to BTC
+*2010; BTC broke the penny threshold for the first time in 2010
+*2011; BTC broke the $1 threshold for the first time
+*Aug 2017; BCH hard fork happened 
+*2nd layer of BTC, Lightning network stayed on with the BTC chain. 
+*2018; phenomenal growth of lightning network. Network capacity went from 0-515 BTC; public nodes went from 0-4800
 
 === There are 3 hard forks of BTC. Can you name them?
-==== BCH- Bitcoin Cash
-==== BTG- Bitcoin Gold
+==== BCH - Bitcoin Cash
+==== BTG - Bitcoin Gold
 
 
 +++ <details><summary> +++
@@ -136,17 +136,17 @@ http://dcs.megaphone.fm/PKP3311382414.mp3?key=7280f68e510ed76e169b41acfd25b217&l
 
 This is a cryptocurrency podcast channel ran by four guys; Ruben Somsen, Mario Gibney, Bryan Aulds, Colin Aulds.  
 We go through the most important days in the history of BTC
- Oct 31 2008- Satoshi releases the BTC whitepaper
- Jan 12 2009- Alfinni receives 10 BTC from Satoshi
- May 22 2010- Laszlow makes the first purchase with BTC
- June 14 2011- Wikileaks accepts BTC as forms of donations
- Oct 2013- FBI seized 26000 BTC from Silk Road and arrested its founder Ross William AKA Dread Pirate Roberts for hiring a hitman to kill his partner
- Feb 2014- Mount Gox files for bankruptcy. 
- July 2013- Bank depositors in Cyprus lost at least 47% of their holdings above $100K. This highlighted the failings of the banking system and pushed the BTC narrative
- Feb 2015- Number of worldwide merchants exceeded 100,000
+*Oct 31 2008- Satoshi releases the BTC whitepaper
+*Jan 12 2009- Alfinni receives 10 BTC from Satoshi
+*May 22 2010- Laszlow makes the first purchase with BTC
+*June 14 2011- Wikileaks accepts BTC as forms of donations
+*Oct 2013- FBI seized 26000 BTC from Silk Road and arrested its founder Ross William AKA Dread Pirate Roberts for hiring a hitman to kill his partner
+*Feb 2014- Mount Gox files for bankruptcy. 
+*July 2013- Bank depositors in Cyprus lost at least 47% of their holdings above $100K. This highlighted the failings of the banking system and pushed the BTC narrative
+*Feb 2015- Number of worldwide merchants exceeded 100,000
 Hashrate exceeded 1 hexahash/sec
- Aug 2017- BTC hard fork
- Jan 2018- Lightning Network mainnet went live with 60 nodes
+*Aug 2017- BTC hard fork
+*Jan 2018- Lightning Network mainnet went live with 60 nodes
 
 === What is the lightning network
 ==== It is a soft fork of BTC
@@ -164,7 +164,7 @@ It is a layer 2 payment protocol that operates on top of a blockchain based cryp
 https://noded.org/[NODED]
 
 Noded podcast is cohosted by Micheal Goldstein and Pierre Rochard to provide current events, technical news, the bitcoin community. 
-Questions about the monetary policy of BTC and why Satoshi put most of the 21 million BTC into the hands of the few early adopters (34:09-35:10).  
+In this podcasts are discussing questions about the monetary policy of BTC and why Satoshi put most of the 21 million BTC into the hands of the few early adopters.  
 The HODL crowd are fundamental to maintaining the price of BTC. 
 Bitcoin is a deflationary coin and there are two schools of thoughts about deflationary coins. The Keynesian and Austrian Economics schools of thought. 
 
@@ -207,7 +207,7 @@ Bitcoin was illiquid until recently. It was estimated that 4% people own about 9
 
 https://media.simplecast.com/episodes/audio/219275/WGMG-03.mp3[WHAT GRINDS MY GEAR]
 
-A unique all female podcast cohosted by Jill Carlson and Meltem Demirors.
+A unique all-female podcast cohosted by Jill Carlson and Meltem Demirors.
 Coinbase announced stable coins with back doors to prevent users violating regulations which can lead to asset seizure. Idax also announces they will be blocking New York based IP addresses. Are we still decentralized?
 Removal of intermediaries and trusted 3rd parties on exchanges is a huge step on exchanges towards decentralization. But features such as KYC, AML, tracking customers does not enable privacy which is an important part of decentralization. 
 
@@ -229,7 +229,7 @@ http://d1dwvcwq657ipv.cloudfront.net/episodes/original/24627957?episode_id=16811
 A BTC podcast run by Zack Voell. We review episode 42 where he talks to Willy Woo, a technical analyst, engineer and hardcore bitcoineer about the challenges and nuances of on-chain data analytics.
 BTC drives the alt markets. Alt coins magnify BTC price action. They are highly volatile and don’t outperform BTC. icking the right Alt coin in a bull run, you can get a slight leverage over BTC as they have a higher volatility and you go back to BTC in a bear run.
 There are 3 broad categories of Alt coins (3:48-17:12).
-Volatility of BTC in 2019 will be no different from other FIAT currencies. This is due to the changing landscape and the somewhat more level of expertise in the level of starting to look like FOREX. 
+The volatility of BTC in 2019 will be no different from other FIAT currencies. This is due to the changing landscape and the somewhat more level of expertise in the level of starting to look like FOREX. 
 
 === What are the three categories of cryptocurrencies
 ==== Bitcoin
@@ -247,7 +247,7 @@ Tokens
 
 https://unchainedpodcast.com/?spp_download=1e4f25852b587cdb84d6992f9f407de9[UNCHAINED]
 
-Laura Shin is a decorated journalist with a journalism degree from Stanford University and master of arts from Columbia University’s School of Journalism. In the episode 99 of the podcast, Wences Casares, the “so-called” patient zero of bitcoin in the valley is the CEO bitcoin vault and wallet company XAPOS 
+Laura Shin is a decorated journalist with a journalism degree from Stanford University and master of arts from Columbia University’s School of Journalism. In  episode 99 of the podcast, Wences Casares, the “so-called” patient zero of bitcoin in the valley is the CEO bitcoin vault and wallet company XAPOS 
 When the government banned money transfer into Argentina in 2011, he was forced to look into other options to circumvent the government restrictions when he discovered Bitcoin. The relatively stable financial situation in the US to explain the necessity of BTC to people there. Converting BTC to local currency in different countries is still subject to the prevalent system there. 
 
 === Question- what countries have banned bitcoin
@@ -268,7 +268,7 @@ Vietnam
 https://hwcdn.libsyn.com/p/b/7/7/b77eece3e6d452e9/LTBE375PRC.mp3?c_id=23318512&cs_id=23318512&expiration=1548223297&hwt=085c538d9256fffbfe047726a35777cb[LET’S TALK BITCOIN]
 
 On this episode 375 featuring Adam Levine, Stephanie Murphy, Jonathan Mohan, Joe Looney they talk about the now obsolete bitcoin alert system.
-The Bitcoin Alert system was to communicate emergencies within the network to the participants that was authenticated and propagated from the 3 or 4 people with access to these keys. The problems arose because of the anonymity of some holders of this key. If they got compromised, someone can propagate a malicious message on this network and it would get treated with importance. 
+The Bitcoin Alert system was to communicate emergencies within the network to the participants that were authenticated and propagated from the 3 or 4 people with access to these keys. The problems arose because of the anonymity of some holders of this key. If they got compromised, someone could propagate a malicious message on this network, and it would get treated with importance. 
 
 === Who were the holders of the bitcoin alert system keys
 ==== Satoshi nakamoto
@@ -286,10 +286,10 @@ Theymos
 http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=29408600&expiration=1548230650&hwt=018170a5f7d3875e86e16f14455b1bcb[WHAT BITCOIN DID]
 
 Bitcoin podcast hosted by Peter McCormack with Bryan Bishop on as a guest.
- BTC is an open source project
- BTC is decentralized without an organization responsible for developing it
-BIPs (Bit Improvement Proposals) are what you need to propose changes to the blockchain. A prototype is usually made with the BIP and submitted. When it has passed as ready and good, it can be added to the live code.
-A hard fork is an incompatible change in the rules while soft fork is compatible. The hard fork is usually incompatible with the old version. People without technical knowledge can simply share knowledge and materials to help spread the ideology of BTC among the general public
+*BTC is an open source project
+*BTC is decentralized without an organization responsible for developing it
+BIPs (Bit Improvement Proposals) is what you need to propose changes to the blockchain. A prototype is usually made with the BIP and submitted. When it has passed as ready and good, it can be added to the live code.
+A hard fork is an incompatible change in the rules while a soft fork is compatible. The hard fork is usually incompatible with the old version. People without technical knowledge can simply share knowledge and materials to help spread the ideology of BTC among the general public
 
 === Types of BIP
 ==== Standard Track
@@ -310,7 +310,7 @@ http://hwcdn.libsyn.com/p/9/4/a/94afbf845f1d48f5/WBD057.mp3?c_id=29408600&cs_id=
 
 === TRANSACTIONS DECONSTRUCTED WITH JEFF FLOWERS
 
-Transaction is the movement of value on the network. It is broadcasted to all BTC nodes. Inputs are the source of funds being moved. Output is the creation of an unspent transaction output (UTXO) denominated in Satoshis. When only a portion is required, a change is required. 
+The transaction is the movement of value on the network. It is broadcasted to all BTC nodes. Inputs are the source of funds being moved. The output is the creation of an unspent transaction output (UTXO) denominated in Satoshis. When only a portion is required, a change is required. 
 STANDARD TRANSACTIONS
 
 i. Pay to Public Key Hash (P2PKH)
@@ -340,12 +340,12 @@ https://mobile.twitter.com/lopp/lists/lightning-developers/members
 https://mobile.twitter.com/lopp/lists/bitcoin/members
 https://mobile.twitter.com/lopp/lists/bitcoin-developers/info
 
-There are 117 BTC developers o the Twitter group and 676 subscribers. Lightning has 59 members and 325 subscribers. There are very few overlaps between the members of the lightning developers and bitcoin developers with the name Elizabeth Stark standing out.Crypto law has 82 members and 434 subscribers. These are lawyers, advocates and legal practitioners who are integral to he operation of Bitcoin as it is usually on the periphery of the law and thrives on exploiting grey areas to make governments and central powers relinquish the unnecessary amount of power they hold on currency and freedom.
+There are 117 BTC developers o the Twitter group and 676 subscribers. Lightning has 59 members and 325 subscribers. There are very few overlaps between the members of the lightning developers and bitcoin developers with the name Elizabeth Stark standing out. Crypto law has 82 members and 434 subscribers. These are lawyers, advocates and legal practitioners who are integral to he operation of Bitcoin as it is usually on the periphery of the law and thrives on exploiting grey areas to make governments and central powers relinquish the unnecessary amount of power they hold on currency and freedom.
 
 === Why have some law firms started accepting bitcoin as payment for services rendered?
 ==== To show support for their bitcoin customers
 ==== For fear of missing out on the opportunities the bitcoin technology provides
-==== Because of the relative low cost of international transactions
+==== Because of the relatively low cost of international transactions
 
 +++ <details><summary> +++
     Answer
@@ -359,7 +359,7 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
 
 === Introduction to bitcoin
 
-Bitcoin a unit of currency is the collection of concept and technologies running through a digital money ecosystem in which users are connected through the internet made available by an open source software. Bitcoin was invented in 2008 by satoshi nakamoto and the network started fully in 2009. Though virtual, bitcoin can be used as means of exchange for both high and low value retail, offshore conduct services and payment means of import and export. A wallet address allows irreversible transactions to be carries out between users and typically starts with a 1 or a 3,there is also an option of scanning a QR code on a smartphone which corresponds to same wallet address of the user.
+Bitcoin, a unit of currency, is the collection of concept and technologies running through a digital money ecosystem in which users are connected through the internet made available by an open source software. Bitcoin was invented in 2008 by Satoshi Nakamoto, and the network started fully in 2009. Though virtual, bitcoin can be used as means of exchange for both high and low-value retail, offshore conduct services and payment means of import and export. A wallet address allows irreversible transactions to be carries out between users and typically starts with a 1 or a 3, there is also an option of scanning a QR code on a smartphone which corresponds to same wallet address of the user.
 
 === What are the difference between bitcoin and traditional currency?
 ==== Bitcoin is virtual, traditional currency isn’t
@@ -378,12 +378,12 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc
 
 === How Bitcoin Works
 
-A block chain explore is a web app that operates as BTC search engine and allows to search for transactions, addresses and blocks to see relationship and flow between them.Inputs (debits) and outputs (credit) do not add up to same amount with outputs adding up less than inputs because of transaction fees collected by miners. A transaction forms a chain where the inputs from latest transaction corresponds to outputs from previous transactions. Mining nodes validate all transactions by reference to bitcoin’s consensus rules. 
+A blockchain explore is a web app that operates as BTC search engine and allows to search for transactions, addresses and blocks to see relationship and flow between them. Inputs (debits) and outputs (credit) do not add up to same amount with outputs adding up less than inputs because of transaction fees collected by miners. A transaction forms a chain where the inputs from latest transaction correspond to outputs from previous transactions. Mining nodes validate all transactions by reference to bitcoin’s consensus rules. 
 
 === What does mining process do?
-==== Mining achieves a fine balance between cost and reward.
+==== Mining achieves an excellent balance between cost and reward.
 ==== Mining nodes validate all transactions by reference to bitcoin’s consensus rules
-==== It produces more BTC into the system at a steady rate until the market cap of 21 million is reached
+==== It produces more BTC into the system at a steady rate until the market cap of 21 million is reached.
 
 +++ <details><summary> +++
     Answer
@@ -454,7 +454,7 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06.asciidoc
 
 === Transactions
 
-Transactions are data structures that encode the transfer of value between participants in the bitcoin system.The fundamental building block of a bitcoin transaction is a transaction output which are indivisible chunks of bitcoin currency, recorded on the blockchain, and recognized as valid by the entire network. Transaction involves pointer to an UTXO (unspent transaction output) by reference to the transaction hash and an output index, which identifies the specific UTXO in the transaction this is followed by unlocking script, which the wallet constructs in order to satisfy the spending conditions set in the UTXO. Most times, the unlocking script is a digital signature and public key proving ownership of the bitcoin. 
+Transactions are data structures that encode the transfer of value between participants in the bitcoin system. The fundamental building block of a bitcoin transaction is a transaction output which are indivisible chunks of bitcoin currency, recorded on the blockchain, is recognized as valid by the entire network. The transaction involves pointer to an UTXO (unspent transaction output) by reference to the transaction hash and an output index, which identifies the specific UTXO in the transaction. This is followed by unlocking script, which the wallet constructs in order to satisfy the spending conditions set in the UTXO. Most times, the unlocking script is a digital signature and public key proving ownership of the bitcoin. 
 
 === What are the uses of a digital signature?
 ==== It proves that the owner of the private key, who is by implication the owner of the funds, has authorized the spending of those funds
@@ -473,10 +473,10 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc
 
 ==== Advanced Transactions and Scripting
 
-Advanced transaction and scripting involve the use of multisignature scripts and Pay-to-Script-Hash. Multisignature scripts set a condition where a number of public keys (N) are recorded in the script and some of the public keys (M) of those must provide signatures to unlock the funds. Pay to script hash simpliﬁes the use of complex transaction scripts With P2SH payments, the complex locking script is replaced with its digital ﬁngerprint, a cryptographic hash. 
+Advanced transaction and scripting involve the use of multisignature scripts and Pay-to-Script-Hash. Multisignature scripts set a condition where some of public keys (N) are recorded in the script and some of the public keys (M) of those must provide signatures to unlock the funds. Pay to script hash simpliﬁes the use of complex transaction scripts With P2SH payments, the complex locking script is replaced with its digital ﬁngerprint, a cryptographic hash. 
 
 === What are the advantage of p2sh over multisignature?
-==== P2SH has the ability to encode a script hash as an address
+==== P2SH can to encode a script hash as an address
 ==== Complex scripts are replaced by shorter ﬁngerprints in the transaction output, making the transaction smaller.
 ==== P2SH shifts the transaction fee cost of a long script from the sender to the recipient
 
@@ -492,12 +492,12 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc
 
 === The Bitcoin Network
 
-Bitcoin is configured as a peer-to-peer (p2p protocol) network on the internet. There are no special nodes in bitcoin and all nodes share equal responsibility but assume different function. Functions in nodes include wallet, miner, full blockchain database, and network routing. A Bitcoin Relay Network are overlay networks that provide additional connectivity between nodes with specialized needs. 
+Bitcoin is configured as a peer-to-peer (p2p protocol) network on the internet. There are no special nodes in bitcoin, and all nodes share equal responsibility but assume different function. Functions in nodes include a wallet, miner, full blockchain database, and network routing. A Bitcoin Relay Network are overlay networks that provide additional connectivity between nodes with specialized needs. 
 
 === What does the peer-to-peer network design mean?
 ==== It means that the computers that participate in the network are peers to each other
 ==== There is no server, no centralized service, and no hierarchy within the network
-==== The network nodes interconnect in a mesh network with a ﬂat topology.
+==== The network nodes interconnected in a mesh network with a ﬂat topology.
 
 +++ <details><summary> +++
     Answer
@@ -511,7 +511,7 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc
 
 === The Blockchain
 
-The blockchain data structure is well arranged  and connected list of blocks of transactions. Each block within the blockchain is identiﬁed by a hash. A block is a data structure that arrange transactions for inclusion in the blockchain. The block is made of a header, containing metadata and list of transactions.
+The blockchain data structure is well arranged and connected list of blocks of transactions. Each block within the blockchain is identiﬁed by a hash. A block is a data structure that arranges transactions for inclusion in the blockchain. The block is made of a header, containing metadata and list of transactions.
 
 === How does one use a test chain?
 ==== Establish a development pipeline.
@@ -530,12 +530,12 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc
 
 === Mining and Consensus
 
-Mining is the mechanism that support the decentralized clearinghouse, by which transactions are validated and cleared. Miners receive two types of rewards in return for the security provided by mining: new coins created with each new block, and transaction fees from all the transactions included in the block. The solution to the problem, called the Proof-of-Work, is included in the new block and acts as proof that the miner expended signiﬁcant computing effort. Every transaction may include a transaction fee, in the form of a surplus of bitcoin between the transaction’s inputs and outputs. The winning bitcoin miner gets to keep the change on the transactions included in the winning block. 
+Mining is the mechanism that supports the decentralized clearinghouse, by which transactions are validated and cleared. Miners receive two types of rewards in return for the security provided by mining: new coins created with each new block, and transaction fees from all the transactions included in the block. The solution to the problem, called the Proof-of-Work, is included in the new block and acts as proof that the miner expended signiﬁcant computing effort. Every transaction may include a transaction fee, in the form of a surplus of bitcoin between the transaction’s inputs and outputs. The winning bitcoin miner gets to keep the change on the transactions included in the winning block. 
 
 === What are some of the criteria to be met before a block can be verified?
 ==== A matching transaction in the pool, or in a block in the main branch, must exist.
 ==== For each input, the referenced output must exist and cannot already be spent.
-==== Reject if the sum of input values is less than sum of output values.
+==== Reject if the sum of input values is less than the sum of output values.
 
 +++ <details><summary> +++
     Answer
@@ -549,7 +549,7 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc
 
 === Bitcoin Security
 
-A decentralized system like bitcoin pushes the responsibility and control to the users. A very effective method for protecting bitcoin is to convert them into physical form. Bitcoin keys are nothing more than long numbers and they can be stored in a physical form, such as printed on paper or etched on a metal coin. Keeping bitcoin ofﬂine is called cold storage and it is one of the most effective security techniques. Prudent users will keep only a small fraction, perhaps less than 5%, of their bitcoin in an online or mobile wallet as pocket change. The rest should be split between a few different storage mechanisms. When storing a large amounts of bitcoin, a multisignature bitcoin address should be considered. 
+A decentralized system like bitcoin pushes the responsibility and control to the users. A very effective method for protecting bitcoin is to convert them into physical form. Bitcoin keys are nothing more than long numbers, and they can be stored in a physical form, such as printed on paper or etched on a metal coin. Keeping bitcoin ofﬂine is called cold storage and it is one of the most effective security techniques. Prudent users will keep only a small fraction, perhaps less than 5%, of their bitcoin in an online or mobile wallet as pocket change. The rest should be split between a different storage mechanisms. When storing large amounts of bitcoin, a multisignature bitcoin address should be considered. 
 
 === What are the things I should avoid when storing my bitcoin?
 ==== Do not store all your bitcoin in one wallet, diversify i.e put your bitcoin in different wallet
@@ -568,7 +568,7 @@ https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc
 
 ==== Blockchain Applications
 
-The bitcoin blockchain can become an application platform offering trust services to applications, such as smart contracts, far surpassing the original purpose of digital currency and payments. Colored coins are used to track digital assets as well as physical assets held by third parties and traded through colored coins certiﬁcates of ownership while the Counterparty protocol, similar to colored coins, offers the ability to create and trade virtual assets and tokens. The Lightning Network is a proposed routed network of bidirectional payment channels connected end-to- end. A network like this can allow any participant to route a payment from channel to chanwithout trusting any of the intermediaries.
+The bitcoin blockchain can become an application platform offering trust services to applications, such as smart contracts, far surpassing the original purpose of digital currency and payments. Colored coins are used to track digital assets as well as physical assets held by third parties and traded through colored coins certiﬁcates of ownership while the Counterparty protocol, similar to colored coins, offers the ability to create and trade virtual assets and tokens. The Lightning Network is a proposed routed network of bidirectional payment channels connected end-to-end. A network like this can allow any participant to route a payment from channel to chan without trusting any of the intermediaries.
 
 === What are the guarantees offered by bitcoin?
 ==== Once a transaction is recorded in the blockchain and sufﬁcient work has been added with subsequent blocks, the transaction’s data becomes immutable.
