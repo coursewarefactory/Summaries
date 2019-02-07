@@ -519,7 +519,7 @@ a hash of the Genesis Block of the Bitcoin blockchain
 
 
 
-== Noded 
+== https://noded.org[Noded]
 
 Noded Bitcoin Podcast is co-hosted and produced by Michael Goldstein and Pierre Rochard to provide current events, technical news, and commentary to the Bitcoin community.
 
