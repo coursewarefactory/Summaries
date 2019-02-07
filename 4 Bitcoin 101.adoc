@@ -110,13 +110,20 @@ https://media.simplecast.com/episodes/audio/247752/Ep21.mp3[CITIZEN BITCOIN]
 This is a bitcoin blog aimed at educating bitcoin enthusiasts run by Brady Swenson and Cannons Call. 
 Lindy Effect-The future life expectancy of some nonperishable thing like an idea or technology is proportional to their current age so that every additional period of survival implies a longer remaining life expectancy. Bitcoin is the first attempt at a digital currency that was successful (08:52-10:54 and 12:28-14:06)
 Notable Events
-*Jan 3rd 2009; the first block was mined by Satoshi Nakamoto and the code was shared on Jan 8th 
-*May 2010; Laszlow Hkynyecz sent 10K BTC for 2 pizzas worth $25. First USD value attached to BTC
-*2010; BTC broke the penny threshold for the first time in 2010
-*2011; BTC broke the $1 threshold for the first time
-*Aug 2017; BCH hard fork happened 
-*2nd layer of BTC, Lightning network stayed on with the BTC chain. 
-*2018; phenomenal growth of lightning network. Network capacity went from 0-515 BTC; public nodes went from 0-4800
+
+* Jan 3rd 2009; the first block was mined by Satoshi Nakamoto and the code was shared on Jan 8th
+
+* May 2010; Laszlow Hkynyecz sent 10K BTC for 2 pizzas worth $25. First USD value attached to BTC
+
+* 2010; BTC broke the penny threshold for the first time in 2010
+
+* 2011; BTC broke the $1 threshold for the first time
+
+* Aug 2017; BCH hard fork happened 
+
+* 2nd layer of BTC, Lightning network stayed on with the BTC chain. 
+
+* 2018; phenomenal growth of lightning network. Network capacity went from 0-515 BTC; public nodes went from 0-4800
 
 === There are 3 hard forks of BTC. Can you name them?
 ==== BCH - Bitcoin Cash
@@ -136,17 +143,27 @@ http://dcs.megaphone.fm/PKP3311382414.mp3?key=7280f68e510ed76e169b41acfd25b217&l
 
 This is a cryptocurrency podcast channel ran by four guys; Ruben Somsen, Mario Gibney, Bryan Aulds, Colin Aulds.  
 We go through the most important days in the history of BTC
-*Oct 31 2008- Satoshi releases the BTC whitepaper
-*Jan 12 2009- Alfinni receives 10 BTC from Satoshi
-*May 22 2010- Laszlow makes the first purchase with BTC
-*June 14 2011- Wikileaks accepts BTC as forms of donations
-*Oct 2013- FBI seized 26000 BTC from Silk Road and arrested its founder Ross William AKA Dread Pirate Roberts for hiring a hitman to kill his partner
-*Feb 2014- Mount Gox files for bankruptcy. 
-*July 2013- Bank depositors in Cyprus lost at least 47% of their holdings above $100K. This highlighted the failings of the banking system and pushed the BTC narrative
-*Feb 2015- Number of worldwide merchants exceeded 100,000
+
+* Oct 31 2008- Satoshi releases the BTC whitepaper
+
+* Jan 12 2009- Alfinni receives 10 BTC from Satoshi
+
+* May 22 2010- Laszlow makes the first purchase with BTC
+
+* June 14 2011- Wikileaks accepts BTC as forms of donations
+
+* Oct 2013- FBI seized 26000 BTC from Silk Road and arrested its founder Ross William AKA Dread Pirate Roberts for hiring a hitman to kill his partner
+
+* Feb 2014- Mount Gox files for bankruptcy. 
+
+* July 2013- Bank depositors in Cyprus lost at least 47% of their holdings above $100K. This highlighted the failings of the banking system and pushed the BTC narrative
+
+* Feb 2015- Number of worldwide merchants exceeded 100,000
 Hashrate exceeded 1 hexahash/sec
-*Aug 2017- BTC hard fork
-*Jan 2018- Lightning Network mainnet went live with 60 nodes
+
+* Aug 2017- BTC hard fork
+
+* Jan 2018- Lightning Network mainnet went live with 60 nodes
 
 === What is the lightning network
 ==== It is a soft fork of BTC
