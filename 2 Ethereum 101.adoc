@@ -7,14 +7,14 @@ Ethereum is a platform that demonstrates the fast growth from general purpose bl
 
 
 ==== What does it mean Turing completeness of Ethereum?
-===== Ethereum can lauch programms that will terminate
-===== All programms on the Ethereum can be terminated
-===== Ethereum can lauch programms that will not terminate
+===== Ethereum can lauch programmes that will terminate
+===== All programmes on the Ethereum can be terminated
+===== Ethereum can launch programmes that will not terminate
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
 ----
-Ethereum can lauch programms that will not terminate
+Ethereum can launch programms that will not terminate
 ----
 +++ </div></details> +++
 
@@ -111,7 +111,7 @@ Transactions are the starting point of every activity in the Ethereum system. Tr
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc 
 
 
-In this chapter, we started working with smart contracts in detail and explored the Solidity contract programming language. We took a simple example contract, Faucet.sol, and gradually improved it and made it more complex, using it to explore various aspects of the Solidity language.
+In this chapter, we started working with smart contracts in detail and explored the Solidity contract programming language. We took a simple example contract, Faucet.sol, and gradually improved it and made it more complicated, using it to explore various aspects of the Solidity language.
 
 ==== Open question: Explain the most efficient way how to avoid Avoid Dynamically Sized Arrays.
 ===== 
@@ -126,7 +126,7 @@ Write you own answer
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc
 
-Vyper is a powerful and interesting new contract-oriented programming language. Its design is biased toward correctness, at the expense of some flexibility. This may allow programmers to write better smart contracts and avoid certain pitfalls that cause serious vulnerabilities to arise.
+Vyper is a compelling and exciting new contract-oriented programming language. Its design is biased toward correctness, at the expense of some flexibility. This may allow programmers to write better smart contracts and avoid certain pitfalls that cause serious vulnerabilities to arise.
 
 
 ==== What is not a decorator from the list below:
@@ -144,7 +144,7 @@ Vyper is a powerful and interesting new contract-oriented programming language. 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc 
 
 There is a lot for any developer working in the smart contract domain to know and understand. By following best practices in your smart contract design and code writing, you will avoid many severe pitfalls and traps.
-Perhaps the most fundamental software security principle is to maximize reuse of trusted code. In cryptography, this is so important it has been condensed into an adage: Don’t roll your own crypto. In the case of smart contracts, this amounts to gaining as much as possible from freely available libraries that have been thoroughly vetted by the community.
+Perhaps the most fundamental software security principle is to maximize reuse of trusted code. In cryptography, this is so important it has been condensed into an adage: Don’t roll your crypto. In the case of smart contracts, this amounts to gaining as much as possible from freely available libraries that have been thoroughly vetted by the community.
 
 
 ==== What is the best framework for writing smart-contracts in Solidity and why?
@@ -194,7 +194,7 @@ All answers are correct
 
 Link: https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc
 
-Decentralized applications are the culmination of the Ethereum vision, as expressed by the founders from the very earliest designs. While many applications call themselves DApps today, most are not fully decentralized. However, it is already possible to construct applications that are almost completely decentralized.
+Decentralized applications are the culmination of the Ethereum vision, as expressed by the founders from the very earliest designs. While many applications call themselves DApps today, most are not fully decentralized. However, it is already possible to construct applications that are almost etirely decentralized.
 
 ==== How to explain ENS regarding Ethereum?
 ===== The Ethereum Name Service
