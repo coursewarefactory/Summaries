@@ -154,6 +154,7 @@ Perhaps the most fundamental software security principle is to maximize reuse of
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
+--------    
 --------
 +++ </div></details> +++
 
@@ -164,6 +165,7 @@ Tokens are a very powerful concept in Ethereum and can form the basis of many im
 ==== Open question: Is it possible to use ERC777 for ICO contract? Please, elaborate on the advantages and disadvantages?
 ===== 
 ===== 
+
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
