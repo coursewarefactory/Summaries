@@ -492,4 +492,36 @@ It only requires a wallet. Hence it can reach the underbanked and unbanked popul
 
 
 
+== Books to read (highlight a good quote each)
+https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940[Mastering Ethereum]
+
+https://www.manning.com/books/building-ethereum-dapps[Building Ethereum Dapps]
+
+https://www.apress.com/us/book/9781484225349[Introducing Ethereum and Solidity]
+
+https://goethereumbook.org/[Ethereum Development with Go]
+
+https://cryptoeconomics.study/[Cryptoeconomics Study]
+
+https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1536663468[The business Blockchain]
+
+== Twitter accounts to follow
+
+TBD
+
+== Forums to visit
+
+https://forum.ethereum.org/[The Ethreum Community Forum]
+
+https://www.reddit.com/r/ethdev/[Reddit - r/ethdev]
+
+https://www.reddit.com/r/ethereum/[Reddit - r/ethereum]
+
+https://www.reddit.com/r/ethdapps/[Reddit - r/ethdapps]
+
+https://www.reddit.com/r/CryptoCurrency[r/CryptoCurrency]
+
+https://bitcointalk.org/[Bitcoin Talk]
+
+
 
