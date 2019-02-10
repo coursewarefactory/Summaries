@@ -374,7 +374,7 @@ https://queue.acm.org/detail.cfm?id=3136559
 Bitcoin is a product of several decades’ worth of research on digital cash and so practitioners should be skeptical of claims of revolutionary technology. Most of the ideas in bitcoin that have generated excitement in the enterprise, such as distributed ledgers and Byzantine agreement, actually date back 20 years or more. Recognize that your problem may not require any breakthroughs—there may be long-forgotten solutions in research papers.
 
 === What are the necessary prerequisites for building a ledger for internet use?
-==== The ledger should be immutable, append only meaning you should be able to add new transactions but not remove, modify, or reorder existing ones
+==== The ledger should be immutable, append-only meaning you should be able to add new transactions but not remove, modify, or reorder existing ones
 ==== There should also be a way to obtain a succinct cryptographic digest of the state of the ledger at any time 
 ==== The ledger should be a global data structure collectively maintained by a mutually untrusting set of participants
 
@@ -395,7 +395,7 @@ Smart contracts embed contracts in all sorts of property that is valuable and co
 === What are the differences between the crude security system and the rectified security system?
 ==== A lock to selectively let in the owner and exclude third parties
 ==== A back door to let in the creditor
-==== Creditor back door switched on only upon nonpayment for a certain period of time
+==== Creditor back door switched on only upon nonpayment for a certain period
 +++ <details><summary> +++
     Answer
     +++ </summary><div> +++
@@ -426,9 +426,9 @@ https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf
 
 The Byzantine Generals Problem, under various hypotheses, have been provided solutions and shown how they can be used in implementing reliable computer systems. These solutions are expensive in both the amount of time and the number of messages required. Achieving reliability in the face of arbitrary malfunctioning is difficult and its solution seems to be inherently expensive. The only way to reduce the cost is to make assumptions about the type of failure that may occur.
 
-=== What are the draw backs of byzantine general probelem?
-==== Oral message is not sufficient to trasnmit message
-==== No solution will work unless two third of generals are loyal
+=== What are the drawbacks of Byzantine General problem?
+==== Oral message is not sufficient to transmit message
+==== No solution will work unless two-third of generals are loyal
 ==== With only three generals no solution can work in the presence of a traitor
 +++ <details><summary> +++
     Answer
@@ -440,7 +440,7 @@ With only three generals no solution can work in the presence of a traitor
 
 https://github.com/ethereum/wiki/wiki/White-Paper
 
-The mechanism behind proof of work was a breakthrough in the space because it solved two problems. First, it provided a simple and moderately effective consensus algorithm, allowing nodes in the network to collectively agree on a set of canonical updates to the state of the Bitcoin ledger. Second, it provided a mechanism for allowing free entry into the consensus process, solving the political problem of deciding who gets to influence the consensus, while simultaneously preventing sybil attacks
+The mechanism behind proof of work was a breakthrough in the space because it solved two problems. First, it provided a simple and moderately effective consensus algorithm, allowing nodes in the network to collectively agree on a set of canonical updates to the state of the Bitcoin ledger. Second, it provided a mechanism for allowing free entry into the consensus process, solving the political problem of deciding who gets to influence the consensus, while simultaneously preventing Sybil attacks
 
 === What are the approaches to building a consensus protocol?
 ==== Building an independent network
@@ -458,7 +458,7 @@ Building and testing all necessary state transition and networking code
 
 https://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html
 
-Agoric computation requires market compatible mechanisms for tha allocation of processor time and storage spaces.Recasting processor scheduling as an auction process yields a flexible priority system.Recasting storage management as a system of decentralized market negotiations yields a distributed garbage collection algorithm able to collect unreferenced loops that cross trust boundaries.
+Agoric computation requires market compatible mechanisms for tha allocation of processor time and storage spaces. Recasting processor scheduling as an auction process yields a flexible priority system. Recasting storage management as a system of decentralized market negotiations yields a distributed garbage collection algorithm able to collect unreferenced loops that cross trust boundaries.
 
 === Memory systems differ. What features make them different?
 ==== Latency
@@ -474,11 +474,11 @@ Agoric computation requires market compatible mechanisms for tha allocation of p
 +++ </div></details> +++
 
 https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
-The internet and web were created as open platforms that any user, developer, organization could access equally. Among other things, this allowed independent developers to build products that quickly gained widespread adoption. Google started in a Menlo Park garage and Facebook started in a Harvard dorm room. They competed on a level playing field because they were built on decentralized networks governed by open protocols
+The internet and web were created as open platforms that any user, developer, the organization could access equally. Among other things, this allowed independent developers to build products that quickly gained widespread adoption. Google started in a Menlo Park garage and Facebook started in a Harvard dorm room. They competed on a level playing field because they were built on decentralized networks governed by open protocols
 
 === What were the innovations of bitcoin?
 ==== It is a store of value for people
-==== It is a new way to develop open network
+==== It is a new way to develop an open network
 ==== It can reach the underbanked and unbanked populations
 
 +++ <details><summary> +++
