@@ -251,7 +251,7 @@ Swarm: Serverless Hosting Incentivised Peer-To-Peer Storage And Content Distribu
 ----
 +++ </div></details> +++
 
-==Whisper
+== Whisper
 
 Link: https://github.com/ethereum/wiki/wiki/Whisper
 
