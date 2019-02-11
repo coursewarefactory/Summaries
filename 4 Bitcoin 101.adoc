@@ -520,7 +520,7 @@ the signature proves that the transaction (or specific parts of the transaction)
 
 
 
-==== Advanced Transactions and Scripting
+=== Advanced Transactions and Scripting
 
 Link: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc
 
