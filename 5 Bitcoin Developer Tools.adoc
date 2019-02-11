@@ -103,7 +103,9 @@ Hailed as one of the most potent solutions to cryptocurrency scaling currently u
 ----
 +++ </div></details> +++
 
-http://blog.oleganza.com/post/85111558553/bitcoin-is-like[Bitcoin is Like…]
+=== Bitcoin is Like…
+
+Link: http://blog.oleganza.com/post/85111558553/bitcoin-is-like
 
 Version and controversion. Comparing and analyze of Bitcoin states and forms. Fantastic idea to tell about a complex subject. 
 
