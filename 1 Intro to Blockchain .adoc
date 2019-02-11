@@ -457,6 +457,9 @@ Foam
 
 
 == Unchained Podcast
+
+Link: https://unchainedpodcast.com/
+
 In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money. Tune in to find out how Web 3.0, the decentralized web, will revolutionize our world.
 
 === What’s Riccardo Spagni Twitter handle?
@@ -473,9 +476,9 @@ Fluffy Pony
 ----
 +++ </div></details> +++
 
+== Conspiratus Podcast
 
-
-== https://itunes.apple.com/us/podcast/conspiratus/id1335928646?mt=2[Conspiratus Podcast]
+Link: https://itunes.apple.com/us/podcast/conspiratus/id1335928646?mt=2
 
 Conspiratus is Latin for consensus. Through discourse and discussion, we attempt to reach consensus on the state and future of distributed consensus and decentralization technologies.
 
@@ -494,9 +497,9 @@ a hash of the Genesis Block of the Bitcoin blockchain
 ----
 +++ </div></details> +++
 
+== Noded 
 
-
-== https://noded.org[Noded]
+== https://noded.org
 
 Noded Bitcoin Podcast is co-hosted and produced by Michael Goldstein and Pierre Rochard to provide current events, technical news, and commentary to the Bitcoin community.
 
