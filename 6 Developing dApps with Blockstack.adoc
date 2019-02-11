@@ -1,5 +1,6 @@
-==  Developing dApps with Blockstack
-===  Principles of Blockstack applications
+=  Developing dApps with Blockstack
+
+==  Principles of Blockstack applications
 https://docs.blockstack.org/develop/dapp_principles.html
 
 There are different perspectives on what makes a decentralized app, but Blockstack Dapps only adheres to three. 
