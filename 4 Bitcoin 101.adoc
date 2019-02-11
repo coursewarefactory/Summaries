@@ -1,9 +1,10 @@
-== Bitcoin 101
-=== Bitcoin Development
+= Bitcoin 101
+
+== Bitcoin Development
+
 Link: https://lopp.net/bitcoin.html
 
-
-=== Stephan Livera Podcast
+== Stephan Livera Podcast
 
 link: https://stephanlivera.com/download-episode/942/46.mp3?ref=download
 
@@ -93,7 +94,7 @@ To measure solvency of 3rd parties in cryptocureency
 ----
 +++ </div></details> +++
 
-THE BAD CRYPTO PODCAST
+== THE BAD CRYPTO PODCAST
 
 Link: https://ondemand-us-dal01.cdnstream1.com/d/clips/e6cb0305-7c74-4a39-8d62-a896017e2917/020e8074-c5f9-443d-b254-a8c4003fffbc/0e847fb4-ac17-4071-8efb-a8c4004d7442/audio/direct/t1547783003/Bitcoin_Bull_Run_and_How_to_Use_Exchanges.mp3?t=1547783003&publisher=omny&aw_0_1st.program=The+Bad+Crypto+Podcast&aw_0_1st.organization=Aaron+The+Tech&aw_0_azn.pgenre=%5b%22Business%22%5d&aw_0_azn.pname=The+Bad+Crypto+Podcast&listeningSessionID=5c46a5c7df2bbf33_6072532_22__752d973e1786067349f22a49e9fa565328e49392[
 
