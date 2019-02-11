@@ -81,6 +81,8 @@ All answers are correct
 ----
 +++ </div></details> +++
 
+== Parity
+
 Link: https://www.parity.io/
 
 Parity develops cutting-edge blockchain technologies to foster innovation such as Parity Ethereum, Parity Bitcoin, Polkadot, and others.
